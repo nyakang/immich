@@ -4069,7 +4069,6 @@ export enum JobName {
     BackgroundTask = "backgroundTask",
     StorageTemplateMigration = "storageTemplateMigration",
     Migration = "migration",
-    Ocr = "ocr",
     Search = "search",
     Sidecar = "sidecar",
     Library = "library",
